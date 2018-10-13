@@ -14,7 +14,7 @@ qiwi_token ='17e785c92fbd7f9ac358e61b5a29437d'
 ya_number=410013238616649
 ya_token=''
 
-telegram_token='538407552:AAHfHikHNd5SIm5Mfa1OcEBzhfIcR3LWs0g'
+telegram_token='658374451:AAGhl6rcfaC8tlTOISWwiHrvLlT4JpILkio'
 
 
 
@@ -29,7 +29,7 @@ tutorial_url = 'http://telegra.ph/Kak-sdelat-bota-administratorom-04-07'
 
 
 
-WEBHOOK_HOST = '93.95.97.191'
+WEBHOOK_HOST = '54.77.103.27'
 WEBHOOK_PORT = 443
 WEBHOOK_LISTEN = '0.0.0.0'
 
